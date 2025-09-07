@@ -9,7 +9,7 @@ export default function Contact() {
     e.preventDefault();
 
     emailjs
-      .sendForm("service_byz0ssa", "template_fymlnft", form.current, "xJd8By_v13gu0jU6P")
+      .sendForm("service_zegtv9s", "template_p3x5g0j", form.current, "n9pwCHFwysbQ2_hFj")
       .then(
              () => {
              alert("✅ हमने आपकी जानकारी प्राप्त कर ली है। जल्द ही आपसे संपर्क किया जाएगा।");
