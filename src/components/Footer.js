@@ -13,7 +13,7 @@ export default function Footer() {
     >
       <p>© {new Date().getFullYear()} Skill & Sports Guide. All Rights Reserved.</p>
       <p>
-        Designed by <strong>Dev Jha</strong> (8873982856)
+        Designed by <strong>Dev Jha</strong> 
       </p>
 
       <div
