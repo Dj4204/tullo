@@ -12,6 +12,7 @@ export default function Footer() {
       }}
     >
       <p>© {new Date().getFullYear()} Skill & Sports Guide. All Rights Reserves to Tullo.com.</p>
+      <p> Founder :- Nitish Kumar Jha </p<
       
 
       <div
