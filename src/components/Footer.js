@@ -11,10 +11,8 @@ export default function Footer() {
         padding: "20px",
       }}
     >
-      <p>© {new Date().getFullYear()} Skill & Sports Guide. All Rights Reserved.</p>
-      <p>
-        Designed by <strong>Dev Jha</strong> 
-      </p>
+      <p>© {new Date().getFullYear()} Skill & Sports Guide. All Rights Reserves to Tullo.com.</p>
+      
 
       <div
         style={{
